@@ -36,6 +36,8 @@ p{
 }
 section{
     height: 600px;
+    padding-bottom: 150px;
+
 }
 .singlefont{
     color: slateblue ;
@@ -58,4 +60,30 @@ section{
     width: 20%;
     float: left;
     border-radius: 15px;
+    background-color: white;
+}
+
+
+.tough2{
+    margin-left: 350px;
+    padding-left: 50px;
+   
+    float: right;
+    
+    
+}
+
+
+
+
+.background{
+    background-image: url("images/d.png");
+    background-repeat: no-repeat;
+    background-size: 700px;
+    margin-right: 350px;
+    float: right;
+}
+.body{
+    border: 10px solid;
+    margin-left: initial;
 }
