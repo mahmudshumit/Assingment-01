@@ -1,89 +1,79 @@
-h1{
-    font-size: 30px;
-    font-family: 'Roboto', sans-serif;
+h1 {
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
 }
-.font1{
-    color:slateblue ;
+.font1 {
+  color: slateblue;
 }
-.font2{
-    color: lightsalmon;
+.font2 {
+  color: lightsalmon;
 }
-.font3{
-    color: rgb(48, 24, 48);
+.font3 {
+  color: rgb(48, 24, 48);
 }
-p{
-    font-style: italic;
+p {
+  font-style: italic;
 }
-.link-button{
-    text-decoration: none;
-    background-image: linear-gradient(45deg,lightsalmon,tomato); 
-    padding: 10px 20px;
-    border-radius: 5px;
-    color:white;
-    font-weight: 700;
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, lightsalmon, tomato);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
 }
-.half-width{
-    width: 40%;
-    float: left;
-    margin-left: 5%;
-    padding-left: 2%;
-
-    
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
 }
-.half-width img{
-        width: 80%;
-
+.half-width img {
+  width: 80%;
 }
-section{
-    height: 600px;
-    padding-bottom: 150px;
-
+section {
+  height: 600px;
+  padding-bottom: 150px;
 }
-.singlefont{
-    color: slateblue ;
+.singlefont {
+  color: slateblue;
 }
-.doublefont{
-         color: cyan;
+.doublefont {
+  color: cyan;
 }
-.project-area h1{
-           text-align: center;
+.project-area h1 {
+  text-align: center;
 }
-.project-area{
-    background-color:whitesmoke;
-    
+.project-area {
+  background-color: whitesmoke;
 }
-.project-area h3{
-        color: slateblue;
+.project-area h3 {
+  color: slateblue;
 }
-.final{
-    box-shadow: 2px 2px 20px gray;
-    width: 20%;
-    float: left;
-    border-radius: 15px;
-    background-color: white;
+.final {
+  box-shadow: 2px 2px 20px gray;
+  width: 20%;
+  float: left;
+  border-radius: 15px;
+  background-color: white;
 }
 
+.tough2 {
+  margin-left: 350px;
+  padding-left: 50px;
 
-.tough2{
-    margin-left: 350px;
-    padding-left: 50px;
-   
-    float: right;
-    
-    
+  float: right;
 }
 
 
-
-
-.background{
-    background-image: url("images/d.png");
-    background-repeat: no-repeat;
-    background-size: 700px;
-    margin-right: 350px;
-    float: right;
+.background {
+  background-image: url("images/d.png");
+  background-repeat: no-repeat;
+  background-size: 700px;
+  margin-right: 350px;
+  float: right;
 }
-.body{
-    border: 10px solid;
-    margin-left: initial;
+.body {
+  border: 10px solid;
+  margin-left: initial;
 }
